@@ -1,0 +1,9 @@
+File: DirectoryWalkerReport$1.class | Size: 1920 bytes | Last Modified: 2026-10-22T10:29:12.0143133Z
+File: DirectoryWalkerReport.class | Size: 1966 bytes | Last Modified: 2026-10-22T10:29:12.0223132Z
+File: DirectoryWalkerReport.java | Size: 1403 bytes | Last Modified: 2026-10-22T10:27:46.4881576Z
+File: directory_report.txt | Size: 0 bytes | Last Modified: 2026-10-22T10:29:12.0768165Z
+File: LogAnalyzer.class | Size: 3467 bytes | Last Modified: 2026-10-22T10:27:05.9660577Z
+File: LogAnalyzer.java | Size: 1727 bytes | Last Modified: 2026-10-22T10:26:59.7099816Z
+File: SerializableDemo.class | Size: 1767 bytes | Last Modified: 2026-10-13T04:20:27.5555382Z
+File: SerializableDemo.java | Size: 1447 bytes | Last Modified: 2026-10-13T04:19:58.5552484Z
+File: UserProfile.class | Size: 1033 bytes | Last Modified: 2026-10-13T04:20:27.5315385Z
